@@ -1,5 +1,5 @@
-# Portfolio-2
+# Portfolio
 
-hey, thanks for visitting my GitHub page, here is my new portfolio. check it out:
+I love to use my coding skills to make super fast, super fun websites.
 
 https://vienhong20.github.io/Portfolio-2/
